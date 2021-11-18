@@ -34,6 +34,7 @@ public class StringPermutations {
 
     public static void main(String[] args) {
 
-        System.out.println(StringPermutations.getPermutations("1329"));
+        int[] a = {4, 5, 3, 6, 1, 2, 9, 8, 7};
+        System.out.println(StringPermutations.getPermutations("453612987"));
     }
 }
