@@ -33,8 +33,6 @@ public class StringPermutations {
     }
 
     public static void main(String[] args) {
-
-        int[] a = {4, 5, 3, 6, 1, 2, 9, 8, 7};
         System.out.println(StringPermutations.getPermutations("453612987"));
     }
 }
